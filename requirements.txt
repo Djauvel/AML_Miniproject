@@ -4,3 +4,5 @@ keras
 tensorflow
 jupyter
 matplotlib
+imblearn
+seaborn
